@@ -1,0 +1,3 @@
+create table [NAMA] (
+    [KOLOM1 TIPE_DATA NULL_STATUS],
+    [KOLOM2 TIPE_DATA NULL_STATUS]);
